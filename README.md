@@ -1,1 +1,1 @@
-# rsschool-cv
+- https://sariweb.github.io/rsschool-cv/
