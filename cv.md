@@ -24,7 +24,7 @@ function division(a, b) {
   return b != 0 ? a/b : null;
 }
 
-let result = division(1, 2);
+let result = division(2, 0);
 
 if (result) {
   alert(result);
