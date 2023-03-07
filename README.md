@@ -1,1 +1,2 @@
 - https://sariweb.github.io/rsschool-cv/cv
+- https://sariweb.github.io/rsschool-cv/
